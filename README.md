@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajeswariLM
 - 👀 I’m interested in coding and contributing.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java projects
+- 🌱 I’m currently learning ReactJS.
+- 💞️ I aim to become a full stack developer.
 - 📫 How to reach me - mail me at rajilm3@gmail.com
 
 <!---
